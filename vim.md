@@ -55,3 +55,7 @@ vim /path/to/file  # 通过Vim打开(open)文件(file)
 		**操作(operation)**: 在**正常模式(normal mode)** 下，先按**shift+分号(semicolon, ;)/冒号(colon, :)**，**光标(cursor)** 移动到**编辑器(editor)** 的 **左下角(bottom left corner)**；然后按**x**；最后按**回车(return)**
 		n.b. 若**文件(file)** 内容**未修改**，则**直接退出(directly quit)**，**不会** **写(write)文件(file)**，相当于 **:q**；若**文件(file)** 内容**已修改**，则**保存并退出(write and quit)**，会**写(write)文件(file)**，相当于 **:wq**
 		相当于**ZZ**，即在**正常模式(normal mode)** 下，先按**shift+分号(semicolon, ;)/冒号(colon, :)**，**光标(cursor)** 移动到**编辑器(editor)** 的**左下角(bottom left corner)**
+
+---
+
+[![CC BY-NC-SA 4.0](https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
